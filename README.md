@@ -1,2 +1,2 @@
 # eureka-server
-The eureka sever 
+The eureka sever for the class-room proyect
